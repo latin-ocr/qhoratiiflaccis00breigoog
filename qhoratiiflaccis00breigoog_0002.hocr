@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccis00breigoog_0002.png"; bbox 0 0 3167 4834; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 662 917 1023 1040">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 662 917 1023 1040">
+     <span class='ocr_line' id='line_1_1' title="bbox 662 917 1023 1040; baseline 0.008 -46"><span class='ocrx_word' id='word_1_1' title='bbox 662 917 936 998; x_wconf 76' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_2' title='bbox 982 1009 1023 1040; x_wconf 90' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 177 1195 1253 1322">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 177 1195 1253 1322">
+     <span class='ocr_line' id='line_1_2' title="bbox 177 1195 1253 1322; baseline -0.001 -49"><span class='ocrx_word' id='word_1_3' title='bbox 177 1310 181 1322; x_wconf 92' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 342 1195 724 1275; x_wconf 82' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_5' title='bbox 753 1195 833 1274; x_wconf 89' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 862 1195 1253 1275; x_wconf 82' lang='lat' dir='ltr'><strong>CALIFORNIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 599 1511 854 1620">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 599 1511 854 1620">
+     <span class='ocr_line' id='line_1_3' title="bbox 599 1511 854 1620; baseline -0.016 -24"><span class='ocrx_word' id='word_1_7' title='bbox 599 1518 688 1581; x_wconf 77' lang='lat' dir='ltr'><strong>class</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 711 1511 854 1620; x_wconf 49' lang='lat'><strong>770³«</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1588 4834">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1588 4834">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1588 4834; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1588 4834; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
